@@ -12,7 +12,6 @@ An AI-powered research assistant built using LangChain, Gemini API, Tavily Searc
 - Research modes
 - Source visualization
 - Analytics dashboard
-- Streamlit UI
 
 ## Technologies Used
 
@@ -24,17 +23,19 @@ An AI-powered research assistant built using LangChain, Gemini API, Tavily Searc
 - BeautifulSoup
 - FPDF
 
-## Project Architecture
-
-1. Search Agent
-2. Reader Agent
-3. Writer Agent
-4. Optional Critic Agent
-
 ## Setup Instructions
 
 ```bash
 pip install -r requirements.txt
+```
+
+Run the project:
+
+```bash
+streamlit run app.py
+```
+
+---
 
 ## Screenshots
 
