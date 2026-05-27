@@ -35,3 +35,21 @@ An AI-powered research assistant built using LangChain, Gemini API, Tavily Searc
 
 ```bash
 pip install -r requirements.txt
+
+## Screenshots
+
+### Homepage
+
+![Homepage](screenshots/homepage.png)
+
+---
+
+### Generated Report
+
+![Report](screenshots/report.png)
+
+---
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
