@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 ### Homepage
 
-![Homepage](screenshots/homepage.png)
+![Homepage](screenshots/Homepage.png)
 
 ---
 
@@ -50,6 +50,6 @@ pip install -r requirements.txt
 
 ---
 
-### Dashboard
+### PDF Export
 
-![Dashboard](screenshots/dashboard.png)
+![PDF](screenshots/pdf.png)
