@@ -37,6 +37,24 @@ streamlit run app.py
 
 ---
 
+## Project Structure
+
+```bash
+AI-Multi-Agent-Research-Assistant/
+│
+├── app.py                 # Streamlit frontend UI
+├── pipeline.py            # Main multi-agent workflow pipeline
+├── agents.py              # AI agents and LLM chains
+├── tools.py               # Web search and scraping tools
+├── requirements.txt       # Project dependencies
+├── README.md              # Project documentation
+├── .gitignore             # Ignored files and folders
+│
+├── screenshots/           # Project screenshots
+│   ├── Homepage.png
+│   ├── report.png
+│   └── pdf.png
+
 ## Screenshots
 
 ### Homepage
